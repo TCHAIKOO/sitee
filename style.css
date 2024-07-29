@@ -49,6 +49,7 @@ body {
 .estudante{
     background-color: rgb(0, 0, 0);
     padding: 24px 0;
+    color: #ffffff;
 }
 .estudante-imagem{
     width: 120px;
